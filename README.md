@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/bf520444-e63e-42bf-b95d-4a4f00ad67d9)
 
-•	FOR UPDATE, ADD, REMOVE ITEMS CLICK ON UPDATE PRICE LIST BUTTON
+•	FOR UPDATE OR ADD OR REMOVE ITEMS CLICK ON UPDATE PRICE LIST BUTTON
 ![image](https://github.com/user-attachments/assets/c324f176-cbdc-4138-a16e-bdb55aa3f5a7)
 
 •	FOR ADDING, REOVE, UPDATE USE THIS TAB
