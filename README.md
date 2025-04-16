@@ -3,6 +3,7 @@
 
 
 •	CLICK ON PRICE LIST, GET THE PRICES OF PRODUCTS
+
 ![image](https://github.com/user-attachments/assets/6fd271a1-dc2b-415a-965e-b2a38d1b2c54)
 
 •	ITEMS PRICE LIST
