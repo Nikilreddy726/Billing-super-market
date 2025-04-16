@@ -13,10 +13,13 @@
 
 •	FOR UPDATE, ADD, REMOVE ITEMS CLICK ON UPDATE PRICE LIST BUTTON
 ![image](https://github.com/user-attachments/assets/c324f176-cbdc-4138-a16e-bdb55aa3f5a7)
+
 •	FOR ADDING, REOVE, UPDATE USE THIS TAB
 ![image](https://github.com/user-attachments/assets/28d75442-cdcf-43f3-86c7-38480e6ec8e1)
+
 •	ITEM ADDING
 ![image](https://github.com/user-attachments/assets/368c7d15-9d0b-49c1-864e-6db8a8a968e3)
+
 •	AFTER ADDING ITEM
 ![image](https://github.com/user-attachments/assets/ac0c1052-38ad-48ae-b9ce-2129bd318cbe)
 ![image](https://github.com/user-attachments/assets/42b4edd0-25d9-40a3-99a5-c017cb99900e)
