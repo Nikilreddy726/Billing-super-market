@@ -1,5 +1,7 @@
 •	MAIN WINDOW
 ![image](https://github.com/user-attachments/assets/1b40118d-d778-4b51-914f-136c822fa521)
+
+
 •	CLICK ON PRICE LIST, GET THE PRICES OF PRODUCTS
 ![image](https://github.com/user-attachments/assets/6fd271a1-dc2b-415a-965e-b2a38d1b2c54)
 •	ITEMS PRICE LIST
