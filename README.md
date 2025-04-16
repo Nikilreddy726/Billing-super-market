@@ -10,6 +10,7 @@
 ![image](https://github.com/user-attachments/assets/cc2d494f-8cd2-49f1-bc85-942116b538ea)
 •	CLICK THIS BUTTON, AFTER ADDING, UPDATE, REMOVE ITEMS IN UPDATE PRICE LIST, IT WILL REFRESH THE ITEMS.
 ![image](https://github.com/user-attachments/assets/bf520444-e63e-42bf-b95d-4a4f00ad67d9)
+
 •	FOR UPDATE, ADD, REMOVE ITEMS CLICK ON UPDATE PRICE LIST BUTTON
 ![image](https://github.com/user-attachments/assets/c324f176-cbdc-4138-a16e-bdb55aa3f5a7)
 •	FOR ADDING, REOVE, UPDATE USE THIS TAB
