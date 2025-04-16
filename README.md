@@ -4,6 +4,7 @@
 
 •	CLICK ON PRICE LIST, GET THE PRICES OF PRODUCTS
 ![image](https://github.com/user-attachments/assets/6fd271a1-dc2b-415a-965e-b2a38d1b2c54)
+
 •	ITEMS PRICE LIST
 ![image](https://github.com/user-attachments/assets/cc2d494f-8cd2-49f1-bc85-942116b538ea)
 •	CLICK THIS BUTTON, AFTER ADDING, UPDATE, REMOVE ITEMS IN UPDATE PRICE LIST, IT WILL REFRESH THE ITEMS.
